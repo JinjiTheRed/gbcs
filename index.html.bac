@@ -1,0 +1,39 @@
+<!DOCTYPEhtml> просторади теста
+<head>
+	<meta charset="UTF8">
+	<title>Title</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="header">
+	<a id="selected" href="#"> Главная </a><span>/</span>
+	<a href="puzzles.html"> Загадки </a><span>/</span>
+	<a href="media.html"> Угадайка мультиплеер </a>
+</div>
+<div id="content">
+	<h1>Личный сайт студента GeekBrains</h1>
+	<div id="center">
+		<img src="img/photo.png" alt="фотография">
+		<div id="box_text">
+			<p>Добрый день. Меня зовут Балтазар Индюшацке.<br>
+			Я начинающий программист, который совсем недавно встал на этот путь, и конечно, сразу же ринулся писать свой первый сайт.
+			</p>
+			<p>В этом мне помог курс <a href="https://geekbrains.ru/courses/2" target="_blank">  Основы программирования </a> образовательного IT портала GeekBrains.
+			</p>
+			<p>На этом сайте вы сможете сыграть в пару игр, которые я написал во время занятий на курсах:
+			</p>
+			<a href="puzzles.html">
+				<span>Загадки</span>
+			</a>
+			<a href="media.html">
+				<span>Угадайка мультиплеер</span>
+			</a>
+		</div>
+	</div>
+</div>
+<divid="footer">
+Copyright © 2016 <a href="https://geekbrains.ru/" target="_blank"> GeekBrains </a>
+</div>
+</body>
+</html>
+	
